@@ -1,5 +1,5 @@
 # 💫 About Me:
-A former bagel shop owner turned software developer. I want to become part of the more than ever technological innovative and integrated world. Fueled by a passion for software development, I strive everyday to learn new skills, build things and contribute.<br><br>I am currently open to front-end and full stack roles. 
+A former bagel shop owner turned software developer. I want to become part of the more than ever technological innovative and integrated world. Fueled by a passion for software development, I strive everyday to learn new skills, build things and contribute.<br><br>I am currently open to front-end and full stack roles.
 
 
 ## 🌐 Socials:
