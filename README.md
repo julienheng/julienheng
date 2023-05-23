@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
+[![Julien Heng](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/https://www.linkedin.com/in/julien-heng/) 
 
 
 # 💫 About Me:
