@@ -1,4 +1,10 @@
-[![](https://img.shields.io/badge/JULIENHENG-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/julien-heng/) 
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/julien-heng/"><img src="https://img.shields.io/badge/JULIENHENG-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+      <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <a href="https://julienheng.vercel.app/"><img src="https://img.shields.io/badge/JULIENHENG.com-blueviolet?logo=appveyor&logoColor=white&style=for-the-badge" alt="Website"></a>
+</p>
+
 
 
 # 💫 About Me:
