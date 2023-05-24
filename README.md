@@ -67,6 +67,13 @@ A former bagel shop owner turned software developer. I want to become part of th
     <img src="https://github-readme-stats.vercel.app/api?username=julienheng&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
  </p>
  
+ <p align="center">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" />
+         <span>&nbsp;&nbsp;&nbsp;</span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienheng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+          <span>&nbsp;&nbsp;&nbsp;</span>
+ </p>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=julienheng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
