@@ -80,6 +80,16 @@ A former bagel shop owner turned software developer. I want to become part of th
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 💫 Credit:
+Thank you for making all these contributions possible
+
+<p align="start">
+    <a href="https://shields.io/#gh-light-mode-only" style="text-decoration:none">Shield.io</a></br>
+    <a href="https://github.com/Platane/snk#gh-light-mode-only" style="text-decoration:none">GitHub Contribution Snake Animation By @Platane</a></br>
+    <a href="https://github.com/yoshi389111#gh-light-mode-only" style="text-decoration:none">GitHub Profile 3D Contribution By @yoshi389111</a>
+</p>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=julienheng&icon=5&color=3)](https://visitcount.itsvg.in)
