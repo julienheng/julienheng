@@ -74,19 +74,12 @@ A former bagel shop owner turned software developer. I want to become part of th
           <span>&nbsp;&nbsp;&nbsp;</span>
  </p>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=julienheng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=julienheng&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=julienheng&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
