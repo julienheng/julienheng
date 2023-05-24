@@ -58,13 +58,15 @@ A former bagel shop owner turned software developer. I want to become part of th
 
 # 📊 GitHub Stats:
 <p align="center">
+    <img src="https://github.com/julienheng/julienheng/blob/output/github-contribution-grid-snake.svg" />
+ </p>
+
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=julienheng&theme=dark&hide_border=false" />
          <span>&nbsp;&nbsp;&nbsp;</span>
     <img src="https://github-readme-stats.vercel.app/api?username=julienheng&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
  </p>
  
- ![Snake animation](https://github.com/julienheng/julienheng/blob/output/github-contribution-grid-snake.svg)
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=julienheng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
